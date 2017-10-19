@@ -9,7 +9,6 @@ To generate PDF from an RMarkdown file, you might need some additional software.
 
 ### Additional Resources
 
-Steve Miller at Clemson has an excellent collection of academic templates for journal articles, presentations, CVs and more:
-
-https://github.com/svmiller/svm-r-markdown-templates
+- The `rticles` package has templates for various publications: https://github.com/rstudio/rticles
+- Steve Miller at Clemson has a collection of academic templates for journal articles, presentations, CVs and more. https://github.com/svmiller/svm-r-markdown-templates
 
